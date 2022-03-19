@@ -1,11 +1,19 @@
 body{
     padding: 100px;
 }
+
+.h4{
+    color: rgba(12, 39, 1, 0.705);
+}
 .submit-area{
-    margin-top: 50px;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px gray;
-    padding: 40px;
+    margin-top: 40px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px 10px rgb(228, 220, 220);
+    padding: 30px;
+
+}
+.col-md-4{
+  border-radius: 40%;
 }
 #transaction-area{
     display: none;
